@@ -1,0 +1,16 @@
+{
+  "name": "dotori-village",
+  "version": "1.0.0",
+  "description": "도토리 마을 - 3D 멀티플레이 힐링 게임",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
